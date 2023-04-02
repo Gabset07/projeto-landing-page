@@ -16,9 +16,9 @@ Tentei aplicar os conceitos de HTML,CSS e JS no projeto.
 
 ## Tecnologias
 
-###HTML
-###CSS
-###JS
+#### HTML
+#### CSS
+#### JS
 
 ## Desafios 
 Fazer a aplicação dos conceitos flex do CSS.E também tive um trabalho com a parte do JS.
